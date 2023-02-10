@@ -1,1 +1,1 @@
-this contains the commands to various shell permissions
+This script will list shell permissions
